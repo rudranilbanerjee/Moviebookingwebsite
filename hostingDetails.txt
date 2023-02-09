@@ -1,0 +1,4 @@
+Mysql database Name:----   epiz_33536511_showpura
+Mysql username:-    epiz_33536511
+Mysql password:-    
+Mysql HostName:-    sql306.epizy.com
